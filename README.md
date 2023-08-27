@@ -9,7 +9,8 @@ Here are the some of technologies and tools I am faimilar with :
 - Programming Languages : C# (C Sharp), Visual Bassic .NET (VB.NET), SQL (Structured Query Language)
 - Framework : .NETFrameWork, .NETCore, .NET 5 + , .NET 6 and beyond , Xamarin 
 - Tools : Visual Studio, Visual Studio Code, SQL Server Management Studio 
-- Version Control : VIsual SVN, GitHub 
+- Version Control : VIsual SVN, GitHub
+- Reporting : SQL Server Reporing Services, Report Viewer (RDLC)
 
 ## 🌱 Currently Learning
 I'm currently focused on improving my skills in Microsoft technologies. 
