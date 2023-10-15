@@ -16,15 +16,43 @@ Here are the some of technologies and tools I am faimilar with :
 I'm currently focused on improving my skills in Microsoft technologies. 
 
 ## 💼 Work
-- Prima Computer System (PCS),Singapore: Software Engineer - July , 2015 to Present 
-- Titian Source Co.,Ltd, Myanmar: Senior Software Developer- June, 2014 to March, 2015
-- Myanmar Marketing Research and Developement Co.,Ltd, Myanmar:  Web Developer - December, 2013 to January, 2014
-- Future International Technoloiges Co.Ltd, Myanmar : Web Developer - Febuary , 2013 to November, 2013
-  Responsibilities  :
-     Writing and Developing projects for Admin Page and UI
-     Testing and Check Bugs
-     Enhance the  Project By Requirement of Project Owner
+### Prima Computer System (PCS),Singapore: Software Engineer - July , 2015 to Present
+   #### Responsibilities  :
+    - Writing, testing, and maintaining code for software applications.
+    - Creating architectural designs that meet project requirements.
+    - Ensuring the quality and reliability of the software.
+    - Documenting code and project-related information
+    - Working with teams and non-technical stakeholders.
+    - Using version control systems to manage code changes.
+    - Deploying software and providing ongoing support.
+    - Implementing security measures and best practices.
+    - Identifying and resolving performance issues.
+    - Analyzing and resolving technical challenges
+    - Assisting in project planning and meeting deadlines
+    - Addressing user issues and making updates
+### Titian Source Co.,Ltd, Myanmar: Senior Software Developer- June, 2014 to March, 2015
+   #### Responsibilities  :
+    - Projects development
+    - Analyzing the system requirements and Data Base Design
+    - Performed Documentation and User Manual
+    - Mentoring junior members in the team
+    - Analyzing the System Requirement and Data Base Design
+    - Involved in full development life cycle
+    - Meet Client and Gather the user requirements  to upgrade the existing system
 
+### Myanmar Marketing Research and Developement Co.,Ltd, Myanmar:  Web Developer - December, 2013 to January, 2014
+   #### Responsibilities  :
+    - System Implementation, Testing, Enhance and Maintenance
+    - Analyzing the system requirements and Data Base Design
+    - Gather the user requirements to upgrade the existing system
+    - To host project in Web Hosting
+    - Involved in full development life cycle
+
+ ### Future International Technoloiges Co.Ltd, Myanmar : Web Developer - Febuary , 2013 to November, 2013
+  #### Responsibilities  :
+    - Writing and developing projects for Admin Page and UI
+    - Testing and check Bugs
+    - Enhance the project by the requirements of Project Owner
 
 ## 🚀 Projects
 
