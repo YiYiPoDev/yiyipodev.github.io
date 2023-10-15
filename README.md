@@ -20,6 +20,11 @@ I'm currently focused on improving my skills in Microsoft technologies.
 - Titian Source Co.,Ltd, Myanmar: Senior Software Developer- June, 2014 to March, 2015
 - Myanmar Marketing Research and Developement Co.,Ltd, Myanmar:  Web Developer - December, 2013 to January, 2014
 - Future International Technoloiges Co.Ltd, Myanmar : Web Developer - Febuary , 2013 to November, 2013
+  Responsibilities  :
+     Writing and Developing projects for Admin Page and UI
+     Testing and Check Bugs
+     Enhance the  Project By Requirement of Project Owner
+
 
 ## 🚀 Projects
 
