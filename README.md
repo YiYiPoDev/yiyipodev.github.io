@@ -1,7 +1,7 @@
 # yiyipodev.github.io
 Hi there, I am Yi Yi Po. 
 
-I am Software Engineer based in Singapore. I am likely dedicated to continuously improving my skills, keeping up with the latest industy trends and technologies.
+As a Software Engineer working in Singapore, I strive to improve my skills and remain informed about the latest industry trends and technologies.
 
 ## 🔧 Technologies & Tools
 Here are the some of technologies and tools I am faimilar with : 
